@@ -1,0 +1,4 @@
+exportPattern("^[[:alpha:]]+")
+importFrom("stats", "optim", "optimize", "pnorm")
+importFrom("utils", "install.packages")
+importFrom("pracma", "sigmoid")

@@ -1,0 +1,10 @@
+bf2c11513e06a637605388625b3592a0 *DESCRIPTION
+1701da5a3f61b5c455a9f8df846c35b9 *NAMESPACE
+ed54ca1a188a3eb1afb31f5e077457d3 *R/PX-CAVI-Laplace.R
+6da180d0557f5e74ea579ed87188cf9f *R/PX-CAVI-MVN.R
+fceaf02cd020ace234d631d6939b5422 *R/VBsparsePCA.R
+9b4bf5b13341faef20acedc9a37befc0 *R/foldednormalmean.R
+47cac0139aa699b574e3693e33681d36 *man/VBsparsePCA.Rd
+ee7c1ec6b7326b741bbfa6af9f7ba81e *man/foldednorm.mean.Rd
+cf56cb4ecd96c382f0ff7c52d04352df *man/spca.cavi.Laplace.Rd
+491cb32ca9be760e1ac2046fafcbaed4 *man/spca.cavi.mvn.Rd
